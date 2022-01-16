@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link href="https://fonts.googleapis.com/css?family=Khand&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Chakra+Petch&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+
+
+    <title>K&H MNEB HPCL | 10. szezon | Aktuális tabella</title>
+</head>
+<script>
+    var first_class_tabella_data = []
+    var fixturesData = []
+
+    var startDate = new Date(2020, 2, 15)
+    var nextWeek = new Date(2020, 3, 20)
+    let today = new Date()
+    var delta = Math.abs(startDate - nextWeek) / 1000;
+    var currentWeek = parseInt(delta / 60 / 60 / 24 / 7) - 1
+    var CurrentFixtures = (parseInt(delta / 60 / 60 / 24 / 7) - 1) * 2 - 1
+
+
+    function GetFirstSclassData() {
+        var tabellaURL = "https://api.virtualprogaming.com/api/leagues/HPCL1/table/?season=446"
+        fetch(tabellaURL, {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        })
+            .then(response => response.json()
+            )
+            .then(
+                (result) => {
+                    generateTabella(result, 'elso')
+                },
+                (error) => {
+                    console.log("Nincs tabella adat")
+                }
+            )
+    }
+
+
+
+
+
+    function generateTabella(tabella_data, osztaly) {
+        var tabella = document.getElementById("tabella_table")
+        var tabella_data_list = document.createElement('div');
+        tabella_data_list.id = "tabella_data_list"
+        tabella.appendChild(tabella_data_list);
+
+        var tabella_card = document.getElementById("tabella_data_list")
+        var fragment = document.createDocumentFragment();
+        var helyezes = 0
+        tabella_data.forEach(function (data) {
+            helyezes = helyezes + 1
+            var tabella_sor = document.createElement('div');
+            tabella_sor.className = "tabella_row" //+helyezes
+
+            if (data.team_name == "" || data.team_name == "") {
+                tabella_sor.classList.add("highlight")
+            }
+
+            var tabella_klub_adatok = document.createElement('div');
+            tabella_klub_adatok.className = "tabella_klub"
+
+
+            var sorszam = document.createElement('p');
+            sorszam.textContent = helyezes
+            tabella_klub_adatok.appendChild(sorszam);
+
+            var team_logo = document.createElement('img');
+            team_logo.src = "https://storage.googleapis.com/assets.virtualprogaming.com/" + data.team_logo
+            team_logo.height = "30"
+            tabella_klub_adatok.appendChild(team_logo);
+
+            var team_name = document.createElement('p');
+            team_name.textContent = data.team_name
+            tabella_klub_adatok.appendChild(team_name);
+
+            tabella_sor.appendChild(tabella_klub_adatok);
+
+            var tabella_pontok = document.createElement('div');
+            tabella_pontok.className = "tabella_pontok"
+
+            var played = document.createElement('p');
+            played.textContent = data.played
+            tabella_pontok.appendChild(played);
+
+            var w = document.createElement('p');
+            w.textContent = data.w
+            tabella_pontok.appendChild(w);
+
+            var d = document.createElement('p');
+            d.textContent = data.d
+            tabella_pontok.appendChild(d);
+
+            var l = document.createElement('p');
+            l.textContent = data.l
+            tabella_pontok.appendChild(l);
+
+            var pf = document.createElement('p');
+            pf.textContent = data.pf
+            tabella_pontok.appendChild(pf);
+
+            var pa = document.createElement('p');
+            pa.textContent = data.pa
+            tabella_pontok.appendChild(pa);
+
+            var gd = document.createElement('p');
+            gd.textContent = data.gd
+            tabella_pontok.appendChild(gd);
+
+            var pts = document.createElement('p');
+            pts.textContent = data.pts
+            tabella_pontok.appendChild(pts);
+
+            tabella_sor.appendChild(tabella_pontok);
+
+            fragment.appendChild(tabella_sor);
+
+        });
+        tabella_card.appendChild(fragment);
+
+        var c = document.getElementById("tabella_data_list").childNodes;
+
+        document.getElementById("tabella_first_row").style.boxShadow = "10px 10px 0px #00DBFF"
+
+    }
+
+
+    window.onload = function () {
+        GetFirstSclassData()
+    }
+
+
+</script>
+
+<style>
+    .tabella_container {
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+    }
+    
+    .tabella_container {
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+    }
+
+    #tabella_table {
+        place-self: center;
+        width: 75%;
+
+    }
+</style>
+
+<body>
+
+    <div class="tabella_container">
+
+        <div id="tabella_table">
+            <div id="tabella_first_row" class="tabella_first_row">
+                <h3 id="class_name">
+                    K&H MNEB HPCL - I. osztály (10. szezon)
+                </h3>
+                <div class="tabella_pontok">
+                    <h3>
+                        M
+                    </h3>
+                    <h3>
+                        GY
+                    </h3>
+                    <h3>
+                        D
+                    </h3>
+                    <h3>
+                        V
+                    </h3>
+                    <h3>
+                        LG
+                    </h3>
+                    <h3>
+                        KG
+                    </h3>
+                    <h3>
+                        GK
+                    </h3>
+                    <h3>
+                        P
+                    </h3>
+                </div>
+            </div>
+            <div id="tabella_data_list">
+
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
