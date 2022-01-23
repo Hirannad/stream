@@ -76,9 +76,27 @@ body {
 }
 
 .highlight {
-    box-shadow: 10px 10px 0px #00ccff, 9px 9px 0px #00ccff, 8px 8px 0px #00ccff, 7px 7px 0px #00ccff, 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
-    animation: gradient 10s ease infinite;
+    box-shadow: 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+    animation: gradient-highlight 10s ease infinite;
 }
+
+@keyframes gradien-highlight {
+    0% {
+      box-shadow: 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+    }
+    25% {
+      box-shadow: 6px 6px 0px #4a66ff, 5px 5px 0px #4a66ff, 4px 4px 0px #4a66ff, 3px 3px 0px #4a66ff, 2px 2px 0px #4a66ff, 1px 1px 0px #4a66ff;
+    }
+    50% {
+      box-shadow: 6px 6px 0px #a51af7, 5px 5px 0px #a51af7, 4px 4px 0px #a51af7, 3px 3px 0px #a51af7, 2px 2px 0px #a51af7, 1px 1px 0px #a51af7;
+    }
+    75% {
+      box-shadow: 6px 6px 0px #3e6cff, 5px 5px 0px #3e6cff, 4px 4px 0px #3e6cff, 3px 3px 0px #3e6cff, 2px 2px 0px #3e6cff, 1px 1px 0px #3e6cff;
+    }
+    100% {
+      box-shadow: 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+    }
+  }
 
 .tabella_row_ep {
   font-size: 16px;
