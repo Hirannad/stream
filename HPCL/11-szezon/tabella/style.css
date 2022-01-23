@@ -1,17 +1,5 @@
 body {
     background-color: transparent;
-    background-image: url("hatter2.jpg");
-}
-
-@keyframes yourAnimation{
-    0%{
-        transform: rotate(0) translateX(-15%);
-        opacity: 0;
-        }
-    100%{
-        transform: rotate(0) translateX(0);
-        opacity: 1;
-        }
 }
 
 .tabella_container h2 {
@@ -82,7 +70,6 @@ body {
     grid-template-columns: 1fr 1fr;
     background-color: #EAEAEA;
     margin-bottom: 15px;
-    animation: yourAnimation 2s forwards 1s ease;
 }
 
 .tabella_row_ep {
@@ -91,7 +78,6 @@ body {
     grid-template-columns: 1fr 1fr;
     background-color: #EAEAEA;
     margin-bottom: 5px;
-    animation: yourAnimation 2s forwards 1s ease;
 }
 
 .tabella_first_row {
@@ -100,7 +86,25 @@ body {
     background-color: #EAEAEA;
     box-shadow: 10px 20px 0px #00DBFF;
     margin-bottom: 35px;
-    animation: yourAnimation 2s forwards 1s ease;
+    animation: gradient 10s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		box-shadow: 10px 20px 0px #00CCFF;
+	}
+	25% {
+		box-shadow: 10px 20px 0px #4A66FF;
+	}
+	50% {
+		box-shadow: 10px 20px 0px #A51AF7;
+	}
+	75% {
+		box-shadow: 10px 20px 0px #3E6CFF;
+	}
+    100% {
+		box-shadow: 10px 20px 0px #00CCFF;
+	}
 }
 
 .tabella_first_row>h3 {
