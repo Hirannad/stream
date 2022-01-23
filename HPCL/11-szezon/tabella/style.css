@@ -84,26 +84,26 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: #EAEAEA;
-    box-shadow: 10px 20px 0px #00DBFF;
-    margin-bottom: 35px;
+    box-shadow: 10px 10px 0px #00DBFF;
     animation: gradient 10s ease infinite;
+    margin-bottom: 35px;
 }
 
 @keyframes gradient {
 	0% {
-		box-shadow: 10px 20px 0px #00CCFF;
+		box-shadow: 10px 10px 0px #00CCFF;
 	}
 	25% {
-		box-shadow: 10px 20px 0px #4A66FF;
+		box-shadow: 10px 10px 0px #4A66FF;
 	}
 	50% {
-		box-shadow: 10px 20px 0px #A51AF7;
+		box-shadow: 10px 10px 0px #A51AF7;
 	}
 	75% {
-		box-shadow: 10px 20px 0px #3E6CFF;
+		box-shadow: 10px 10px 0px #3E6CFF;
 	}
     100% {
-		box-shadow: 10px 20px 0px #00CCFF;
+		box-shadow: 10px 10px 0px #00CCFF;
 	}
 }
 
@@ -138,7 +138,8 @@ body {
 }
 
 .highlight {
-    background-color: #00DBFF;
+    box-shadow: 10px 10px 0px #00DBFF;
+    animation: gradient 10s ease infinite;
 }
 
 
