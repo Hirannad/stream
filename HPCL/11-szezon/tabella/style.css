@@ -1,5 +1,5 @@
 body {
-  background-color: transparent;
+  background-color: black;
 }
 
 .tabella_container h2 {
@@ -80,7 +80,7 @@ body {
     animation: gradient-highlight 10s ease infinite;
 }
 
-@keyframes gradien-highlight {
+@keyframes gradient-highlight {
     0% {
       box-shadow: 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
     }
