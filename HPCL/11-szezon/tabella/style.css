@@ -75,6 +75,11 @@ body {
   margin-bottom: 15px;
 }
 
+.highlight {
+    box-shadow: 10px 10px 0px #00ccff, 9px 9px 0px #00ccff, 8px 8px 0px #00ccff, 7px 7px 0px #00ccff, 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+    animation: gradient 10s ease infinite;
+}
+
 .tabella_row_ep {
   font-size: 16px;
   display: grid;
@@ -138,11 +143,6 @@ body {
 .tabella_klub p {
   line-height: 10px;
   align-self: center;
-}
-
-.highlight {
-  box-shadow: 10px 10px 0px #00dbff;
-  animation: gradient 10s ease infinite;
 }
 
 /* FIXTURE */
