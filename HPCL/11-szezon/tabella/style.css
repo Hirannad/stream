@@ -1,5 +1,8 @@
+html,
 body {
   background-color: transparent;
+  margin: 0;
+  padding: 0;
 }
 
 .tabella_container h2 {
@@ -50,8 +53,6 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 0px;
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 .I_osztaly,
@@ -139,7 +140,7 @@ body {
 
 .tabella_klub {
   display: grid;
-  grid-template-columns: 1fr 1fr 8fr;
+  grid-template-columns: 1fr 8fr 1fr;
 }
 
 .tabella_pontok {
