@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<link rel="stylesheet" type="text/css" href="./style.css" />
+	<link href="https://fonts.googleapis.com/css?family=Khand&display=swap" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Chakra+Petch&display=swap" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet" />
+
+	<title>K&H MNEB HPCL | 11. szezon | 2. osztály</title>
+
+	<script>
+		fetch("https://hpcl.hu/wp-json/sportspress/v2/tables/6731", {
+			method: "GET",
+			headers: {
+				"Content-type": "application/json;charset=UTF-8"
+			}
+		})
+			.then((response) => response.json())
+			.then((json) => {
+				delete json.data[0]
+				console.log(json)
+				generateTable(sortData(json.data))
+			})
+			.catch((err) => console.log(err))
+
+		function sortData(data) {
+			const redata = {}
+			for (key in data) {
+				redata[data[key].pos] = data[key]
+			}
+			return redata
+		}
+
+		function generateTable(data) {
+			let tabella_card = document.getElementById("data_list")
+			let fragment = document.createDocumentFragment()
+
+			for (let key in data) {
+				let tabella_sor = document.createElement("div")
+				tabella_sor.className = "tabella_row"
+				tabella_sor.id = "tabella_row_" + key
+				tabella_sor.onclick = () => tabella_sor.classList.toggle("highlight")
+
+				let tabella_klub_adatok = document.createElement("div");
+				tabella_klub_adatok.className = "tabella_klub";
+
+				let sorszam = document.createElement("p");
+				sorszam.textContent = data[key].pos;
+				tabella_klub_adatok.appendChild(sorszam);
+
+				let team_name = document.createElement("p");
+				team_name.textContent = data[key].name;
+				tabella_klub_adatok.appendChild(team_name);
+
+				tabella_sor.appendChild(tabella_klub_adatok);
+
+				let tabella_pontok = document.createElement("div");
+				tabella_pontok.className = "tabella_pontok";
+
+				let played = document.createElement("p");
+				played.textContent = data[key].p;
+				tabella_pontok.appendChild(played);
+
+				let w = document.createElement("p");
+				w.textContent = data[key].w;
+				tabella_pontok.appendChild(w);
+
+				let d = document.createElement("p");
+				d.textContent = data[key].d;
+				tabella_pontok.appendChild(d);
+
+				let l = document.createElement("p");
+				l.textContent = data[key].l;
+				tabella_pontok.appendChild(l);
+
+				let pf = document.createElement("p");
+				pf.textContent = data[key].f;
+				tabella_pontok.appendChild(pf);
+
+				let pa = document.createElement("p");
+				pa.textContent = data[key].a;
+				tabella_pontok.appendChild(pa);
+
+				let gd = document.createElement("p");
+				gd.textContent = data[key].gd;
+				tabella_pontok.appendChild(gd);
+
+				let pts = document.createElement("p");
+				pts.textContent = data[key].pts;
+				tabella_pontok.appendChild(pts);
+
+				tabella_sor.appendChild(tabella_pontok);
+
+				fragment.appendChild(tabella_sor);
+			}
+
+			tabella_card.appendChild(fragment);
+
+			document.getElementById("tabella_first_row").style.boxShadow =
+				"10px 10px 0px #00DBFF";
+		}
+	</script>
+	<style>
+		.tabella_container {
+			height: 100vh;
+			width: 100vw;
+			margin: 0;
+		}
+
+		.tabella_container {
+			height: 100vh;
+			width: 100vw;
+			margin: 0;
+		}
+
+		#tabella_table {
+			place-self: center;
+			width: 75%;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="tabella_container">
+		<div id="tabella_table">
+			<div id="tabella_first_row" class="tabella_first_row">
+				<h3 id="class_name">K&H MNEB HPCL - II. osztály (11. szezon)</h3>
+				<div class="tabella_pontok">
+					<h3>M</h3>
+					<h3>GY</h3>
+					<h3>D</h3>
+					<h3>V</h3>
+					<h3>LG</h3>
+					<h3>KG</h3>
+					<h3>GK</h3>
+					<h3>P</h3>
+				</div>
+			</div>
+			<div id="data_list"></div>
+		</div>
+	</div>
+</body>
+
+</html>
