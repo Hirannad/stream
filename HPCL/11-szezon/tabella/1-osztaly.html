@@ -93,6 +93,10 @@
 				pts.textContent = data[key].pts;
 				tabella_pontok.appendChild(pts);
 
+				let forma = document.createElement("p");
+				forma.innerHTML = data[key].forma;
+				tabella_pontok.appendChild(forma);
+
 				tabella_sor.appendChild(tabella_pontok);
 
 				fragment.appendChild(tabella_sor);
@@ -138,6 +142,7 @@
 					<h3>KG</h3>
 					<h3>GK</h3>
 					<h3>P</h3>
+					<h3>Forma</h3>
 				</div>
 			</div>
 			<div id="data_list"></div>

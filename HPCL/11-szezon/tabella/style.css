@@ -71,7 +71,7 @@ body {
 
 .tabella_row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1.2fr;
   background-color: #eaeaea;
   margin-bottom: 15px;
 }
@@ -102,14 +102,14 @@ body {
 .tabella_row_ep {
   font-size: 16px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1.2fr;
   background-color: #eaeaea;
   margin-bottom: 5px;
 }
 
 .tabella_first_row {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1.2fr;
   background-color: #eaeaea;
   box-shadow: 10px 10px 0px #00ccff, 9px 9px 0px #00ccff, 8px 8px 0px #00ccff, 7px 7px 0px #00ccff, 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
   animation: gradient 10s ease infinite;
@@ -145,8 +145,10 @@ body {
 
 .tabella_pontok {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 3fr;
   text-align: center;
+  padding-right: 20px;
+  align-items: center;
 }
 
 .tabella_klub > img {
@@ -162,6 +164,17 @@ body {
 .tabella_klub p {
   line-height: 10px;
   align-self: center;
+}
+
+.sp-form-events .sp-form-event-link {
+    display: inline-block;
+    text-align: center;
+    vertical-align: text-top;
+    line-height: 1.5em;
+    width: 1.5em;
+    margin: 0 0 0.25em;
+    color: #fff !important;
+    font-weight: normal;
 }
 
 /* FIXTURE */
