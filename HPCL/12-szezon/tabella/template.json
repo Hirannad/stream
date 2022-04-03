@@ -1,0 +1,395 @@
+{
+  "id": 6720,
+  "date": "2021-03-12T00:00:09",
+  "date_gmt": "2021-03-11T23:00:09",
+  "guid": {
+    "rendered": "https://hpcl.hu/tabella/kh-mneb-1-osztaly-10-szezon-2021-fifa21-copy/"
+  },
+  "modified": "2022-01-29T13:15:29",
+  "modified_gmt": "2022-01-29T12:15:29",
+  "slug": "1-osztaly-11-szezon",
+  "status": "publish",
+  "type": "sp_table",
+  "link": "https://hpcl.hu/tabella/1-osztaly-11-szezon/",
+  "title": {
+    "rendered": "K&#038;H MNEB 1. oszt\u00e1ly &#8211; 11. szezon (2021 / FIFA22)"
+  },
+  "content": { "rendered": "", "protected": false },
+  "featured_media": 0,
+  "menu_order": 120,
+  "template": "",
+  "leagues": [3],
+  "seasons": [196],
+  "data": {
+    "1682": {
+      "p": "20",
+      "w": "16",
+      "d": "2",
+      "l": "2",
+      "f": "59",
+      "a": "11",
+      "gd": "48",
+      "pts": "50",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6375/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6380/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6384/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6393/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6397/\" style=\"background-color:#ffb22f\">D</a></div>",
+      "kovetkezik": "<a title=\"Pusk\u00e1s Akad\u00e9mia eSport vs MTK Budapest eSport\" href=\"https://hpcl.hu/merkozes/6402/\"><span class=\"team-logo\"><img width=\"128\" height=\"114\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/mtk-128x114.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/mtk-128x114.png 128w, https://hpcl.hu/wp-content/uploads/2021/01/mtk-300x267.png 300w, https://hpcl.hu/wp-content/uploads/2021/01/mtk-32x28.png 32w, https://hpcl.hu/wp-content/uploads/2021/01/mtk.png 431w, https://hpcl.hu/wp-content/uploads/2021/01/mtk-356x316.png 356w, https://hpcl.hu/wp-content/uploads/2021/01/mtk-70x62.png 70w, https://hpcl.hu/wp-content/uploads/2021/01/mtk-100x89.png 100w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "2.95",
+      "kgm": "0.55",
+      "pm": "2.50",
+      "name": "Pusk\u00e1s eSport",
+      "pos": 1
+    },
+    "1699": {
+      "p": "20",
+      "w": "13",
+      "d": "3",
+      "l": "4",
+      "f": "45",
+      "a": "18",
+      "gd": "27",
+      "pts": "42",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6372/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6380/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6387/\" style=\"background-color:#ffb22f\">D</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6391/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6394/\" style=\"background-color:#44ac45\">GY</a></div>",
+      "kovetkezik": "<a title=\"LvL Up eSport vs TrollFoci-H\u00e1l\u00f3szaggat\u00f3 eSport\" href=\"https://hpcl.hu/merkozes/6401/\"><span class=\"team-logo\"><img width=\"128\" height=\"109\" src=\"https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-128x109.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-128x109.png 128w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-300x256.png 300w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-1024x873.png 1024w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-768x654.png 768w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-1536x1309.png 1536w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-2048x1745.png 2048w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-32x27.png 32w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-380x320.png 380w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-356x303.png 356w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-470x400.png 470w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-70x60.png 70w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-100x85.png 100w, https://hpcl.hu/wp-content/uploads/2021/02/feher-hatteres-PNG-125886d710cef3d56c69dffe8253cd6b-600x511.png 600w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "2.25",
+      "kgm": "0.90",
+      "pm": "2.10",
+      "name": "TFH eSport",
+      "pos": 2
+    },
+    "1966": {
+      "p": "20",
+      "w": "13",
+      "d": "3",
+      "l": "4",
+      "f": "37",
+      "a": "23",
+      "gd": "14",
+      "pts": "42",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6373/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6381/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6386/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6392/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6395/\" style=\"background-color:#eb3f30\">V</a></div>",
+      "kovetkezik": "<a title=\"ZTE FC eSport vs HELL Honv\u00e9d\" href=\"https://hpcl.hu/merkozes/6400/\"><span class=\"team-logo\"><img width=\"80\" height=\"128\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/ZTE-LOGO-80x128.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/ZTE-LOGO-80x128.png 80w, https://hpcl.hu/wp-content/uploads/2021/01/ZTE-LOGO-187x300.png 187w, https://hpcl.hu/wp-content/uploads/2021/01/ZTE-LOGO-20x32.png 20w, https://hpcl.hu/wp-content/uploads/2021/01/ZTE-LOGO-44x70.png 44w, https://hpcl.hu/wp-content/uploads/2021/01/ZTE-LOGO-62x100.png 62w, https://hpcl.hu/wp-content/uploads/2021/01/ZTE-LOGO.png 199w\" sizes=\"(max-width: 80px) 100vw, 80px\" /></span></a>",
+      "lgm": "1.85",
+      "kgm": "1.15",
+      "pm": "2.10",
+      "name": "HELL Honv\u00e9d",
+      "pos": 3
+    },
+    "1685": {
+      "p": "20",
+      "w": "11",
+      "d": "6",
+      "l": "3",
+      "f": "37",
+      "a": "15",
+      "gd": "22",
+      "pts": "39",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6371/\" style=\"background-color:#ffb22f\">D</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6379/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6387/\" style=\"background-color:#ffb22f\">D</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6390/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6395/\" style=\"background-color:#44ac45\">GY</a></div>",
+      "kovetkezik": "<a title=\"Pusk\u00e1s Akad\u00e9mia eSport vs MTK Budapest eSport\" href=\"https://hpcl.hu/merkozes/6402/\"><span class=\"team-logo\"><img width=\"117\" height=\"128\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/puskas-117x128.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/puskas-117x128.png 117w, https://hpcl.hu/wp-content/uploads/2021/01/puskas-29x32.png 29w, https://hpcl.hu/wp-content/uploads/2021/01/puskas-64x70.png 64w, https://hpcl.hu/wp-content/uploads/2021/01/puskas-92x100.png 92w, https://hpcl.hu/wp-content/uploads/2021/01/puskas.png 178w\" sizes=\"(max-width: 117px) 100vw, 117px\" /></span></a>",
+      "lgm": "1.85",
+      "kgm": "0.75",
+      "pm": "1.95",
+      "name": "MTK eSport",
+      "pos": 4
+    },
+    "2390": {
+      "p": "20",
+      "w": "10",
+      "d": "8",
+      "l": "2",
+      "f": "37",
+      "a": "14",
+      "gd": "23",
+      "pts": "38",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6371/\" style=\"background-color:#ffb22f\">D</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6377/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6385/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6388/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6397/\" style=\"background-color:#ffb22f\">D</a></div>",
+      "kovetkezik": "<a title=\"Grosics Alap\u00edtv\u00e1ny vs Veszpr\u00e9m Futsal eSport\" href=\"https://hpcl.hu/merkozes/6404/\"><span class=\"team-logo\"><img width=\"128\" height=\"128\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-128x128.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-128x128.png 128w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-300x300.png 300w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-100x100.png 100w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-600x600.png 600w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-1024x1024.png 1024w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-150x150.png 150w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-768x768.png 768w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-32x32.png 32w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-400x400.png 400w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-80x80.png 80w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-356x356.png 356w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-470x470.png 470w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-70x70.png 70w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO-40x40.png 40w, https://hpcl.hu/wp-content/uploads/2021/01/VESZPREM-LOGO.png 1313w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "1.85",
+      "kgm": "0.70",
+      "pm": "1.90",
+      "name": "Grosics Alap\u00edtv\u00e1ny",
+      "pos": 5
+    },
+    "1692": {
+      "p": "20",
+      "w": "9",
+      "d": "3",
+      "l": "8",
+      "f": "30",
+      "a": "19",
+      "gd": "11",
+      "pts": "30",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6370/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6376/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6382/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6394/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6388/\" style=\"background-color:#eb3f30\">V</a></div>",
+      "kovetkezik": "<a title=\"ZTE FC eSport vs HELL Honv\u00e9d\" href=\"https://hpcl.hu/merkozes/6400/\"><span class=\"team-logo\"><img width=\"112\" height=\"128\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-112x128.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-112x128.png 112w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-600x684.png 600w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-263x300.png 263w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-28x32.png 28w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-351x400.png 351w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-470x535.png 470w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-61x70.png 61w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo-88x100.png 88w, https://hpcl.hu/wp-content/uploads/2021/01/honved-logo.png 689w\" sizes=\"(max-width: 112px) 100vw, 112px\" /></span></a>",
+      "lgm": "1.50",
+      "kgm": "0.95",
+      "pm": "1.50",
+      "name": "ZTE FC eSport",
+      "pos": 6
+    },
+    "1683": {
+      "p": "20",
+      "w": "9",
+      "d": "3",
+      "l": "8",
+      "f": "26",
+      "a": "19",
+      "gd": "7",
+      "pts": "30",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6374/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6378/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6382/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6391/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6399/\" style=\"background-color:#ffb22f\">D</a></div>",
+      "kovetkezik": "<a title=\"Grosics Alap\u00edtv\u00e1ny vs Veszpr\u00e9m Futsal eSport\" href=\"https://hpcl.hu/merkozes/6404/\"><span class=\"team-logo\"><img width=\"128\" height=\"126\" src=\"https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-128x126.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-128x126.png 128w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-300x294.png 300w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-768x753.png 768w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-32x32.png 32w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-380x370.png 380w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-80x80.png 80w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-356x349.png 356w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-470x461.png 470w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-70x70.png 70w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-100x98.png 100w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-40x40.png 40w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df-600x588.png 600w, https://hpcl.hu/wp-content/uploads/2021/03/Grosics-alapitvany-color-logo-64f9d6ceff17b47b9db98516cf7739df.png 928w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "1.30",
+      "kgm": "0.95",
+      "pm": "1.50",
+      "name": "FCV eSport",
+      "pos": 7
+    },
+    "4621": {
+      "p": "20",
+      "w": "9",
+      "d": "3",
+      "l": "8",
+      "f": "26",
+      "a": "24",
+      "gd": "2",
+      "pts": "30",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6372/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6376/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6384/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6389/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6398/\" style=\"background-color:#44ac45\">GY</a></div>",
+      "kovetkezik": "<a title=\"Hajd\u00fan\u00e1n\u00e1s Fk &#8211; Goolasso vs Vasas SC GLT\" href=\"https://hpcl.hu/merkozes/6405/\"><span class=\"team-logo\"><img width=\"128\" height=\"128\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-128x128.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-128x128.png 128w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-300x300.png 300w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-100x100.png 100w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-600x600.png 600w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-1024x1024.png 1024w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-150x150.png 150w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-768x768.png 768w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-32x32.png 32w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-400x400.png 400w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-80x80.png 80w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-356x356.png 356w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-470x470.png 470w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-70x70.png 70w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO-40x40.png 40w, https://hpcl.hu/wp-content/uploads/2021/01/VASAS-LOGO.png 1509w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "1.30",
+      "kgm": "1.20",
+      "pm": "1.50",
+      "name": "Hajd\u00fan\u00e1n\u00e1s FK",
+      "pos": 8
+    },
+    "2243": {
+      "p": "20",
+      "w": "2",
+      "d": "5",
+      "l": "13",
+      "f": "9",
+      "a": "41",
+      "gd": "-32",
+      "pts": "11",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6373/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6377/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6383/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6399/\" style=\"background-color:#ffb22f\">D</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6390/\" style=\"background-color:#eb3f30\">V</a></div>",
+      "kovetkezik": "<a title=\"Hajd\u00fan\u00e1n\u00e1s Fk &#8211; Goolasso vs Vasas SC GLT\" href=\"https://hpcl.hu/merkozes/6405/\"><span class=\"team-logo\"><img width=\"128\" height=\"128\" src=\"https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-128x128.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"HFKG\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-128x128.png 128w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-300x300.png 300w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-150x150.png 150w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-32x32.png 32w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-400x400.png 400w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-80x80.png 80w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-356x356.png 356w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-470x470.png 470w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-70x70.png 70w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-100x100.png 100w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-40x40.png 40w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3-600x600.png 600w, https://hpcl.hu/wp-content/uploads/2021/02/HFKG-cimer-43993d4fca02237da9f5fbb1a7593ce3.png 700w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "0.45",
+      "kgm": "2.05",
+      "pm": "0.55",
+      "name": "Vasas SC",
+      "pos": 9
+    },
+    "1679": {
+      "p": "20",
+      "w": "3",
+      "d": "2",
+      "l": "15",
+      "f": "10",
+      "a": "43",
+      "gd": "-33",
+      "pts": "11",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6374/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6381/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6385/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6393/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6396/\" style=\"background-color:#44ac45\">GY</a></div>",
+      "kovetkezik": "<a title=\"LvL Up eSport vs TrollFoci-H\u00e1l\u00f3szaggat\u00f3 eSport\" href=\"https://hpcl.hu/merkozes/6401/\"><span class=\"team-logo\"><img width=\"128\" height=\"74\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-128x74.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-128x74.png 128w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-600x347.png 600w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-300x174.png 300w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-768x444.png 768w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-32x19.png 32w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-778x458.png 778w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-356x206.png 356w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-470x272.png 470w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-70x41.png 70w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo-100x58.png 100w, https://hpcl.hu/wp-content/uploads/2021/01/TrollFoci-logo.png 800w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "0.50",
+      "kgm": "2.15",
+      "pm": "0.55",
+      "name": "LvL Up eSport",
+      "pos": 10
+    },
+    "1687": {
+      "p": "20",
+      "w": "2",
+      "d": "2",
+      "l": "16",
+      "f": "12",
+      "a": "47",
+      "gd": "-35",
+      "pts": "8",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6375/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6379/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6383/\" style=\"background-color:#44ac45\">GY</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6392/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6398/\" style=\"background-color:#eb3f30\">V</a></div>",
+      "kovetkezik": "<a title=\"Genesis Gaming vs PTE PEAC\" href=\"https://hpcl.hu/merkozes/6403/\"><span class=\"team-logo\"><img width=\"128\" height=\"73\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/genesis-128x73.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/genesis-128x73.png 128w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-600x341.png 600w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-300x170.png 300w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-768x436.png 768w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-32x18.png 32w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-500x280.png 500w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-356x202.png 356w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-470x267.png 470w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-70x40.png 70w, https://hpcl.hu/wp-content/uploads/2021/01/genesis-100x57.png 100w, https://hpcl.hu/wp-content/uploads/2021/01/genesis.png 824w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "0.60",
+      "kgm": "2.35",
+      "pm": "0.40",
+      "name": "PTE PEAC",
+      "pos": 11
+    },
+    "1704": {
+      "p": "20",
+      "w": "2",
+      "d": "2",
+      "l": "16",
+      "f": "9",
+      "a": "63",
+      "gd": "-54",
+      "pts": "8",
+      "forma": "<div class=\"sp-form-events\"><a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6370/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6378/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6386/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6389/\" style=\"background-color:#eb3f30\">V</a> <a class=\"sp-form-event-link\" href=\"https://hpcl.hu/merkozes/6396/\" style=\"background-color:#eb3f30\">V</a></div>",
+      "kovetkezik": "<a title=\"Genesis Gaming vs PTE PEAC\" href=\"https://hpcl.hu/merkozes/6403/\"><span class=\"team-logo\"><img width=\"128\" height=\"117\" src=\"https://hpcl.hu/wp-content/uploads/2021/01/peac-128x117.png\" class=\"attachment-sportspress-fit-icon size-sportspress-fit-icon wp-post-image\" alt=\"\" loading=\"lazy\" srcset=\"https://hpcl.hu/wp-content/uploads/2021/01/peac-128x117.png 128w, https://hpcl.hu/wp-content/uploads/2021/01/peac-600x547.png 600w, https://hpcl.hu/wp-content/uploads/2021/01/peac-300x274.png 300w, https://hpcl.hu/wp-content/uploads/2021/01/peac-768x701.png 768w, https://hpcl.hu/wp-content/uploads/2021/01/peac-32x29.png 32w, https://hpcl.hu/wp-content/uploads/2021/01/peac-356x325.png 356w, https://hpcl.hu/wp-content/uploads/2021/01/peac-470x429.png 470w, https://hpcl.hu/wp-content/uploads/2021/01/peac-70x64.png 70w, https://hpcl.hu/wp-content/uploads/2021/01/peac-100x91.png 100w, https://hpcl.hu/wp-content/uploads/2021/01/peac.png 979w\" sizes=\"(max-width: 128px) 100vw, 128px\" /></span></a>",
+      "lgm": "0.45",
+      "kgm": "3.15",
+      "pm": "0.40",
+      "name": "Genesis Gaming",
+      "pos": 12
+    },
+    "0": {
+      "pos": "#",
+      "name": "Csapat",
+      "p": "M",
+      "w": "Gy",
+      "d": "D",
+      "l": "V",
+      "f": "LG",
+      "a": "KG",
+      "gd": "GK",
+      "pts": "P",
+      "forma": "Forma",
+      "kovetkezik": "K\u00f6vetkezik",
+      "lgm": "LG / M",
+      "kgm": "KG / M",
+      "pm": "P / M"
+    }
+  },
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.6 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>K&amp;H MNEB 1. oszt\u00e1ly - 11. szezon (2021 / FIFA22) &ndash; HPCL.hu</title>\n<meta name=\"description\" content=\"A K&amp;H MNEB 1. oszt\u00e1ly 10. szezonj\u00e1nak tabell\u00e1ja PlayStation platformon. (FIFA21)\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://hpcl.hu/tabella/1-osztaly-11-szezon/\" />\n<meta property=\"og:locale\" content=\"hu_HU\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"K&amp;H MNEB 1. oszt\u00e1ly (PlayStation) - 10. szezon - Tabella\" />\n<meta property=\"og:description\" content=\"A K&amp;H MNEB 1. oszt\u00e1ly 10. szezonj\u00e1nak tabell\u00e1ja PlayStation platformon. (FIFA21)\" />\n<meta property=\"og:url\" content=\"https://hpcl.hu/tabella/1-osztaly-11-szezon/\" />\n<meta property=\"og:site_name\" content=\"HPCL.hu\" />\n<meta property=\"article:publisher\" content=\"https://facebook.com/hpclofficial\" />\n<meta property=\"article:modified_time\" content=\"2022-01-29T12:15:29+00:00\" />\n<meta property=\"og:image\" content=\"https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1500\" />\n\t<meta property=\"og:image:height\" content=\"500\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:title\" content=\"K&amp;H MNEB 1. oszt\u00e1ly (PlayStation) - 10. szezon - Tabella\" />\n<meta name=\"twitter:description\" content=\"A K&amp;H MNEB 1. oszt\u00e1ly 10. szezonj\u00e1nak tabell\u00e1ja PlayStation platformon. (FIFA21)\" />\n<meta name=\"twitter:image\" content=\"https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg\" />\n<meta name=\"twitter:site\" content=\"@hpclofficial\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://hpcl.hu/#organization\",\"name\":\"HPCL\",\"url\":\"https://hpcl.hu/\",\"sameAs\":[\"https://facebook.com/hpclofficial\",\"https://instagram.com/hpclofficial\",\"https://twitter.com/hpclofficial\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://hpcl.hu/#logo\",\"inLanguage\":\"hu\",\"url\":\"http://hpcl.hu/wp-content/uploads/2020/12/mnebs2_tournament_hpcl_rgb-3.png\",\"contentUrl\":\"http://hpcl.hu/wp-content/uploads/2020/12/mnebs2_tournament_hpcl_rgb-3.png\",\"width\":3000,\"height\":4045,\"caption\":\"HPCL\"},\"image\":{\"@id\":\"https://hpcl.hu/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://hpcl.hu/#website\",\"url\":\"https://hpcl.hu/\",\"name\":\"HPCL.hu\",\"description\":\"Magyarorsz\\u00e1g egyik legnagyobb esport k\\u00f6z\\u00f6ss\\u00e9ge\",\"publisher\":{\"@id\":\"https://hpcl.hu/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://hpcl.hu/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"hu\"},{\"@type\":\"ImageObject\",\"@id\":\"https://hpcl.hu/tabella/1-osztaly-11-szezon/#primaryimage\",\"inLanguage\":\"hu\",\"url\":\"https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg\",\"contentUrl\":\"https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg\",\"width\":1500,\"height\":500},{\"@type\":\"WebPage\",\"@id\":\"https://hpcl.hu/tabella/1-osztaly-11-szezon/#webpage\",\"url\":\"https://hpcl.hu/tabella/1-osztaly-11-szezon/\",\"name\":\"K&H MNEB 1. oszt\\u00e1ly - 11. szezon (2021 / FIFA22) &ndash; HPCL.hu\",\"isPartOf\":{\"@id\":\"https://hpcl.hu/#website\"},\"datePublished\":\"2021-03-11T23:00:09+00:00\",\"dateModified\":\"2022-01-29T12:15:29+00:00\",\"description\":\"A K&H MNEB 1. oszt\\u00e1ly 10. szezonj\\u00e1nak tabell\\u00e1ja PlayStation platformon. (FIFA21)\",\"breadcrumb\":{\"@id\":\"https://hpcl.hu/tabella/1-osztaly-11-szezon/#breadcrumb\"},\"inLanguage\":\"hu\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://hpcl.hu/tabella/1-osztaly-11-szezon/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://hpcl.hu/tabella/1-osztaly-11-szezon/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://hpcl.hu/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"K&#038;H MNEB 1. oszt\\u00e1ly &#8211; 11. szezon (2021 / FIFA22)\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "K&H MNEB 1. oszt\u00e1ly - 11. szezon (2021 / FIFA22) &ndash; HPCL.hu",
+    "description": "A K&H MNEB 1. oszt\u00e1ly 10. szezonj\u00e1nak tabell\u00e1ja PlayStation platformon. (FIFA21)",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://hpcl.hu/tabella/1-osztaly-11-szezon/",
+    "og_locale": "hu_HU",
+    "og_type": "article",
+    "og_title": "K&H MNEB 1. oszt\u00e1ly (PlayStation) - 10. szezon - Tabella",
+    "og_description": "A K&H MNEB 1. oszt\u00e1ly 10. szezonj\u00e1nak tabell\u00e1ja PlayStation platformon. (FIFA21)",
+    "og_url": "https://hpcl.hu/tabella/1-osztaly-11-szezon/",
+    "og_site_name": "HPCL.hu",
+    "article_publisher": "https://facebook.com/hpclofficial",
+    "article_modified_time": "2022-01-29T12:15:29+00:00",
+    "og_image": [
+      {
+        "width": 1500,
+        "height": 500,
+        "url": "https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_title": "K&H MNEB 1. oszt\u00e1ly (PlayStation) - 10. szezon - Tabella",
+    "twitter_description": "A K&H MNEB 1. oszt\u00e1ly 10. szezonj\u00e1nak tabell\u00e1ja PlayStation platformon. (FIFA21)",
+    "twitter_image": "https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg",
+    "twitter_site": "@hpclofficial",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://hpcl.hu/#organization",
+          "name": "HPCL",
+          "url": "https://hpcl.hu/",
+          "sameAs": [
+            "https://facebook.com/hpclofficial",
+            "https://instagram.com/hpclofficial",
+            "https://twitter.com/hpclofficial"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://hpcl.hu/#logo",
+            "inLanguage": "hu",
+            "url": "http://hpcl.hu/wp-content/uploads/2020/12/mnebs2_tournament_hpcl_rgb-3.png",
+            "contentUrl": "http://hpcl.hu/wp-content/uploads/2020/12/mnebs2_tournament_hpcl_rgb-3.png",
+            "width": 3000,
+            "height": 4045,
+            "caption": "HPCL"
+          },
+          "image": { "@id": "https://hpcl.hu/#logo" }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://hpcl.hu/#website",
+          "url": "https://hpcl.hu/",
+          "name": "HPCL.hu",
+          "description": "Magyarorsz\u00e1g egyik legnagyobb esport k\u00f6z\u00f6ss\u00e9ge",
+          "publisher": { "@id": "https://hpcl.hu/#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://hpcl.hu/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "hu"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://hpcl.hu/tabella/1-osztaly-11-szezon/#primaryimage",
+          "inLanguage": "hu",
+          "url": "https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg",
+          "contentUrl": "https://hpcl.hu/wp-content/uploads/2021/02/twitter_cover_hpcl.jpg",
+          "width": 1500,
+          "height": 500
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://hpcl.hu/tabella/1-osztaly-11-szezon/#webpage",
+          "url": "https://hpcl.hu/tabella/1-osztaly-11-szezon/",
+          "name": "K&H MNEB 1. oszt\u00e1ly - 11. szezon (2021 / FIFA22) &ndash; HPCL.hu",
+          "isPartOf": { "@id": "https://hpcl.hu/#website" },
+          "datePublished": "2021-03-11T23:00:09+00:00",
+          "dateModified": "2022-01-29T12:15:29+00:00",
+          "description": "A K&H MNEB 1. oszt\u00e1ly 10. szezonj\u00e1nak tabell\u00e1ja PlayStation platformon. (FIFA21)",
+          "breadcrumb": {
+            "@id": "https://hpcl.hu/tabella/1-osztaly-11-szezon/#breadcrumb"
+          },
+          "inLanguage": "hu",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://hpcl.hu/tabella/1-osztaly-11-szezon/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://hpcl.hu/tabella/1-osztaly-11-szezon/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hpcl.hu/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "K&#038;H MNEB 1. oszt\u00e1ly &#8211; 11. szezon (2021 / FIFA22)"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "https://hpcl.hu/wp-json/sportspress/v2/tables/6720" }],
+    "collection": [{ "href": "https://hpcl.hu/wp-json/sportspress/v2/tables" }],
+    "about": [{ "href": "https://hpcl.hu/wp-json/wp/v2/types/sp_table" }],
+    "wp:attachment": [
+      { "href": "https://hpcl.hu/wp-json/wp/v2/media?parent=6720" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "sp_league",
+        "embeddable": true,
+        "href": "https://hpcl.hu/wp-json/wp/v2/leagues?post=6720"
+      },
+      {
+        "taxonomy": "sp_season",
+        "embeddable": true,
+        "href": "https://hpcl.hu/wp-json/wp/v2/seasons?post=6720"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

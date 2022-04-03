@@ -1,0 +1,440 @@
+html,
+body {
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+}
+
+.tabella_container h2 {
+  font-family: Khand;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 42px;
+  line-height: 64px;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.tabella_container h3 {
+  font-family: Khand;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 60px;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.tabella_container h4 {
+  font-family: Khand;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 60px;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.tabella_container p {
+  font-family: Khand;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 40px;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.tabella_container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 0px;
+}
+
+.I_osztaly,
+.II_osztaly,
+.III_osztaly,
+.X_osztaly {
+  grid-template-columns: 1fr 4fr;
+  grid-gap: 60px;
+}
+
+.card_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+}
+
+.tabella_row {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  background-color: #eaeaea;
+  margin-bottom: 15px;
+}
+
+.highlight {
+    box-shadow: 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+    animation: gradient-highlight 10s ease infinite;
+}
+
+@keyframes gradient-highlight {
+    0% {
+      box-shadow: 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+    }
+    25% {
+      box-shadow: 6px 6px 0px #4a66ff, 5px 5px 0px #4a66ff, 4px 4px 0px #4a66ff, 3px 3px 0px #4a66ff, 2px 2px 0px #4a66ff, 1px 1px 0px #4a66ff;
+    }
+    50% {
+      box-shadow: 6px 6px 0px #a51af7, 5px 5px 0px #a51af7, 4px 4px 0px #a51af7, 3px 3px 0px #a51af7, 2px 2px 0px #a51af7, 1px 1px 0px #a51af7;
+    }
+    75% {
+      box-shadow: 6px 6px 0px #3e6cff, 5px 5px 0px #3e6cff, 4px 4px 0px #3e6cff, 3px 3px 0px #3e6cff, 2px 2px 0px #3e6cff, 1px 1px 0px #3e6cff;
+    }
+    100% {
+      box-shadow: 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+    }
+  }
+
+.tabella_row_ep {
+  font-size: 16px;
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  background-color: #eaeaea;
+  margin-bottom: 5px;
+}
+
+.tabella_first_row {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  background-color: #eaeaea;
+  box-shadow: 10px 10px 0px #00ccff, 9px 9px 0px #00ccff, 8px 8px 0px #00ccff, 7px 7px 0px #00ccff, 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+  animation: gradient 10s ease infinite;
+  margin-bottom: 25px;
+}
+
+@keyframes gradient {
+  0% {
+    box-shadow: 10px 10px 0px #00ccff, 9px 9px 0px #00ccff, 8px 8px 0px #00ccff, 7px 7px 0px #00ccff, 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+  }
+  25% {
+    box-shadow: 10px 10px 0px #4a66ff, 9px 9px 0px #4a66ff, 8px 8px 0px #4a66ff, 7px 7px 0px #4a66ff, 6px 6px 0px #4a66ff, 5px 5px 0px #4a66ff, 4px 4px 0px #4a66ff, 3px 3px 0px #4a66ff, 2px 2px 0px #4a66ff, 1px 1px 0px #4a66ff;
+  }
+  50% {
+    box-shadow: 10px 10px 0px #a51af7, 9px 9px 0px #a51af7, 8px 8px 0px #a51af7, 7px 7px 0px #a51af7, 6px 6px 0px #a51af7, 5px 5px 0px #a51af7, 4px 4px 0px #a51af7, 3px 3px 0px #a51af7, 2px 2px 0px #a51af7, 1px 1px 0px #a51af7;
+  }
+  75% {
+    box-shadow: 10px 10px 0px #3e6cff, 9px 9px 0px #3e6cff, 8px 8px 0px #3e6cff, 7px 7px 0px #3e6cff, 6px 6px 0px #3e6cff, 5px 5px 0px #3e6cff, 4px 4px 0px #3e6cff, 3px 3px 0px #3e6cff, 2px 2px 0px #3e6cff, 1px 1px 0px #3e6cff;
+  }
+  100% {
+    box-shadow: 10px 10px 0px #00ccff, 9px 9px 0px #00ccff, 8px 8px 0px #00ccff, 7px 7px 0px #00ccff, 6px 6px 0px #00ccff, 5px 5px 0px #00ccff, 4px 4px 0px #00ccff, 3px 3px 0px #00ccff, 2px 2px 0px #00ccff, 1px 1px 0px #00ccff;
+  }
+}
+
+.tabella_first_row > h3 {
+  padding-left: 20px;
+}
+
+.tabella_klub {
+  display: grid;
+  grid-template-columns: 1fr 15fr;
+  padding-left: 20px;
+}
+
+.tabella_pontok {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 3fr;
+  text-align: center;
+  padding-right: 20px;
+  align-items: center;
+}
+
+.tabella_klub > img {
+  align-self: center;
+  justify-self: center;
+  height: 30px;
+  margin-right: 16px;
+}
+
+.tabella_klub p {
+  line-height: 24px;
+  align-self: center;
+}
+
+.sp-form-events .sp-form-event-link {
+    display: inline-block;
+    text-align: center;
+    vertical-align: text-top;
+    line-height: 1.5em;
+    width: 1.5em;
+    margin: 0;
+    color: #fff !important;
+    font-weight: normal;
+	text-decoration: none;
+}
+
+/* FIXTURE */
+
+.fixturesArrows {
+  display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  color: white;
+}
+
+.fixturesArrows img {
+  cursor: pointer;
+}
+
+.leftArrowIMG {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.Fixtures h1 {
+  font-size: 50px;
+  line-height: 50px;
+  font-family: "Chakra Petch", sans-serif;
+  color: white;
+  font-weight: 800;
+  margin: 0;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.Fixtures h2 {
+  font-size: 40px;
+  line-height: 40px;
+  font-family: "Chakra Petch", sans-serif;
+  color: white;
+  font-weight: 800;
+  color: #01e6f7;
+  margin: 0;
+  text-align: center;
+}
+
+.Fixture_row_container {
+  display: grid;
+  grid-template-columns: 2fr 1fr 0.5fr 1fr 2fr;
+  padding: 5px;
+  grid-template-rows: 40px 40px;
+  font-family: Khand;
+  font-weight: 600;
+  margin-bottom: 30px;
+  font-size: 24px;
+  background-color: #ebebeb;
+}
+
+.I_osztaly .Fixture_row_container {
+  box-shadow: 10px 10px 0px #00dbff;
+}
+
+.II_osztaly .Fixture_row_container {
+  box-shadow: 10px 10px 0px #ffbe0b;
+}
+
+.III_osztaly .Fixture_row_container {
+  box-shadow: 10px 10px 0px #09e85e;
+}
+
+.X_osztaly .Fixture_row_container {
+  box-shadow: 10px 10px 0px #0f7c10;
+}
+
+.Fixture_row_container img {
+  align-self: center;
+  justify-self: center;
+  height: 30px;
+}
+
+.Fixture_row_container .csapat {
+  align-self: center;
+  justify-self: center;
+  align-self: center;
+}
+
+.Fixture_row_container .bal {
+  text-align: left;
+  z-index: 0;
+  align-self: center;
+  justify-self: center;
+}
+
+.Fixture_row_container .jobb {
+  padding-right: 5px;
+  text-align: right;
+  z-index: 1;
+}
+
+.Fixture_row_container .pont {
+  text-align: center;
+  align-self: center;
+  line-height: 25px;
+}
+
+.VS {
+  grid-row: 1 / 3;
+  grid-column: 3;
+  font-size: 60px;
+  font-family: "Chakra Petch", sans-serif;
+  color: #01e6f7;
+  font-style: italic;
+  font-weight: 800;
+  margin-left: -20px;
+  text-shadow: 3px 5px black;
+  z-index: 1;
+}
+
+.VS::before {
+  margin-top: -90px;
+  height: 65px;
+  width: 65px;
+  background: black;
+  content: "";
+  position: relative;
+  display: block;
+  left: 12px;
+  top: 75px;
+  z-index: -2;
+  box-shadow: 8px 8px 0px #f15c08;
+}
+
+@media only screen and (max-width: 800px) {
+  .tabella_container {
+    grid-template-columns: 1fr;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .card_container {
+    grid-gap: 20px;
+  }
+  .tabella_container h2 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .tabella_container h3 {
+    font-size: 18px;
+    line-height: 35px;
+  }
+  .tabella_container p {
+    font-size: 12px;
+    line-height: 25px;
+  }
+  .tabella_klub {
+	padding-left: 10px;
+    grid-template-columns: 1fr 15fr;
+  }
+  .tabella_klub img {
+    align-self: center;
+    justify-self: center;
+    height: 20px;
+	margin-right: 8px;
+  }
+  .tabella_pontok {
+	padding-right: 10px;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 5fr;
+  }
+  .tabella_first_row > h3 {
+    padding-left: 5px;
+  }
+  .tabella_row {
+    margin-bottom: 10px;
+  }
+  .tabella_row:nth-child(-n + 2) {
+    margin-bottom: 10px;
+  }
+  .tabella_row:nth-child(3) {
+    margin-bottom: 10px;
+  }
+  .tabella_row:nth-last-child(-n + 2) {
+    margin-bottom: 10px;
+  }
+  .tabella_row:nth-last-child(3) {
+    margin-bottom: 10px;
+  }
+  .tabella_first_row {
+    margin-bottom: 20px;
+  }
+
+  /*Fixtures */
+  .VS {
+    font-size: 46px;
+    line-height: 46px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-left: -20px;
+    margin-top: 30px;
+  }
+  .VS::before {
+    height: 45px;
+    width: 45px;
+    left: 12px;
+    top: 50px;
+    box-shadow: 8px 8px 0px #f15c08;
+  }
+}
+
+#main-header .container {
+  max-width: 10000px !important;
+  width: 80%;
+}
+
+#main-footer {
+  display: none;
+}
+
+.et_pb_post {
+  margin-bottom: 0px;
+}
+
+.single .et_pb_post {
+  margin-bottom: 0px;
+}
+
+.single .post {
+  padding-bottom: 0px;
+}
+
+#top-menu #menu-item-962.current-menu-item > a {
+  color: #09e85e !important;
+}
+
+#top-menu #menu-item-785.current-menu-item > a {
+  color: #ffbe0b !important;
+}
+
+#top-menu #menu-item-976.current-menu-item > a {
+  color: #0f7c10 !important;
+}
+
+.attachment-sportspress-fit-icon.size-sportspress-fit-icon.wp-post-image {
+	width: auto;
+    height: auto;
+    max-width: 1em;
+    max-height: 1em;
+	vertical-align: middle;
+}
+
+.tabella_container {
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+}
+
+.tabella_container {
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+}
+
+#tabella_table {
+	place-self: center;
+	width: 75%;
+}
